@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnDockerCiCd.Api", "LearnDockerCiCd.Api\LearnDockerCiCd.Api.csproj", "{1E64BBF2-0200-4214-BB66-7BCDC6842D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnDockerCiCd.Application", "LearnDockerCiCd.Application\LearnDockerCiCd.Application.csproj", "{E858C9B4-A274-4FF3-B02C-A27923AAF064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnDockerCiCd.Domain", "LearnDockerCiCd.Domain\LearnDockerCiCd.Domain.csproj", "{CB6C93F7-879C-4A30-898E-AD640723FE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnDockerCiCd.Infrastructure", "LearnDockerCiCd.Infrastructure\LearnDockerCiCd.Infrastructure.csproj", "{E31F21E6-2304-4F43-A697-C5D17A5AE5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnDockerCiCd.Tests", "LearnDockerCiCd.Tests\LearnDockerCiCd.Tests.csproj", "{07A7D6E9-E082-48F1-9089-F8F580509009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E64BBF2-0200-4214-BB66-7BCDC6842D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E64BBF2-0200-4214-BB66-7BCDC6842D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E64BBF2-0200-4214-BB66-7BCDC6842D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E64BBF2-0200-4214-BB66-7BCDC6842D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E858C9B4-A274-4FF3-B02C-A27923AAF064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E858C9B4-A274-4FF3-B02C-A27923AAF064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E858C9B4-A274-4FF3-B02C-A27923AAF064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E858C9B4-A274-4FF3-B02C-A27923AAF064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB6C93F7-879C-4A30-898E-AD640723FE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6C93F7-879C-4A30-898E-AD640723FE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6C93F7-879C-4A30-898E-AD640723FE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6C93F7-879C-4A30-898E-AD640723FE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31F21E6-2304-4F43-A697-C5D17A5AE5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31F21E6-2304-4F43-A697-C5D17A5AE5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31F21E6-2304-4F43-A697-C5D17A5AE5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31F21E6-2304-4F43-A697-C5D17A5AE5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A7D6E9-E082-48F1-9089-F8F580509009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A7D6E9-E082-48F1-9089-F8F580509009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A7D6E9-E082-48F1-9089-F8F580509009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A7D6E9-E082-48F1-9089-F8F580509009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
